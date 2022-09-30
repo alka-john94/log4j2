@@ -1,0 +1,9 @@
+INFO  | 2022-09-30 16:47:51 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:15) - This Will Be Printed On Info
+WARN  | 2022-09-30 16:47:51 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:16) - This Will Be Printed On Warn
+ERROR | 2022-09-30 16:47:51 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:17) - This Will Be Printed On Error
+FATAL | 2022-09-30 16:47:51 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:18) - This Will Be Printed On Fatal
+INFO  | 2022-09-30 16:47:51 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:19) - Appending string: Hello, World.
+INFO  | 2022-09-30 16:49:25 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:13) - Initializing the variables for a mathematical operation
+WARN  | 2022-09-30 16:49:25 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:20) - The result will be less than 1
+ERROR | 2022-09-30 16:49:25 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:31) - The divisor is 0
+INFO  | 2022-09-30 16:49:25 | [main] Log4j2Project.Log4j2Example (Log4j2Example.java:35) - The mathematical operation is completed and the result is 3
